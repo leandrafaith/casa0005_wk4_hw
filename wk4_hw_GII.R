@@ -27,3 +27,4 @@ Jion_GII <- World %>%
   left_join(.,
             GIIcol,
             by = c("iso" = "iso_code"))
+#1
